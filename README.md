@@ -1,4 +1,4 @@
-# COLEP
-Codes for COLEP: Certifiably Robust Learning-Reasoning Conformal Prediction via Probabilistic Circuits [ICLR 2024]
+## Implementation of COLEP [ICLR 2024]
 
-Codes will be released recently.
+The repository contains Python codes to implement COLEP.
+Please use ``sh run.sh`` to run scripts for different tasks.
